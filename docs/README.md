@@ -15,11 +15,11 @@ This is the late_for_work for cpp files.
      - feature-request.md
  - bin
 	 - late_for_work.cpp
+   - late_for_work
  - doc
    - LICENSE
    - README.md
- - log
-	 - trace.log
+   - testo.pdf
    
 ### Execution examples
  - gcc late_for_work.cpp -o late_for_work && ./late_for_work
@@ -29,7 +29,7 @@ This is the late_for_work for cpp files.
 
 
 ## Version_1.0_2020-8-28
- - Initial version
+ - Initial version (100/100)
 
 ---
 Made by Castellani Davide 
